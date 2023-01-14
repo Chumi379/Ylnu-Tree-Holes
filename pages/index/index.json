@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "美食元素",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-image": "/uni_modules/uview-ui/components/u-image/u-image",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-notify": "/uni_modules/uview-ui/components/u-notify/u-notify"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/orderList/orderList",
+    "pages/my/my",
+    "pages/addOrder/addOrder",
+    "pages/addressEdit/addressEdit",
+    "pages/address/address",
+    "pages/paySuccess/paySuccess",
+    "pages/addressEdit2/addressEdit2",
+    "pages/address2/address2",
+    "pages/orderDetail/orderDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "美食元素",
+    "navigationBarBackgroundColor": "#f3f2f7"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/index_image/index.png",
+        "selectedIconPath": "static/index_image/index_active.png"
+      },
+      {
+        "pagePath": "pages/orderList/orderList",
+        "text": "订单",
+        "iconPath": "static/index_image/order.png",
+        "selectedIconPath": "static/index_image/order_active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/index_image/me.png",
+        "selectedIconPath": "static/index_image/me_active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
