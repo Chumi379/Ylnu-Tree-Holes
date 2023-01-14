@@ -1,0 +1,1 @@
+<view><view class="pay_success"><view class="divContent"><image src="../../static/images/success.png"></image><view class="divSuccess">下单成功</view><view class="divDesc">{{"预计"+finishTime+"到达"}}</view><view class="divDesc1">后厨正在加紧制作中，请耐心等待~</view><view data-event-opts="{{[['tap',[['toOrderPage',['$event']]]]]}}" class="btnView" bindtap="__e">查看订单</view></view></view></view>
